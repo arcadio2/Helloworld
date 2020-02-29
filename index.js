@@ -1,5 +1,6 @@
 console.log("hola mundo"); 
-
+let i=0; 
 while(true){
-    console.log("hola mundo"); 
+    i++;
+    console.log("hola mundo ",i); 
 }
