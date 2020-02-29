@@ -1,5 +1,5 @@
 console.log("hola mundo"); 
 
-for(let i=0; i<10; i++){
+while(true){
     console.log("hola mundo"); 
 }
